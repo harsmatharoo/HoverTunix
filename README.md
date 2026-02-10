@@ -17,9 +17,10 @@ Control your computer's volume and media playback using hand gestures! HoverTune
 ## 🛠️ Hardware Requirements
 
 - **ToF Sensor** (VL53L0X, or similar)
-  <img src="https://github.com/user-attachments/assets/4e2f591d-f660-4d8b-be88-029a937283f6" width="300">
+- <img src="https://github.com/user-attachments/assets/4e2f591d-f660-4d8b-be88-029a937283f6" width="300">
   
 - **Nucleo STM32F446RE Microcontroller or Equivalent** (to read sensor and send data via serial)
+  
   <img src="https://github.com/user-attachments/assets/efe2926f-fd99-4a7e-8cef-47b519df5092" width="300">
 
 - **USB Cable** for serial connection
