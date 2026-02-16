@@ -1,7 +1,8 @@
 # HoverTunIX
 Gesture Volume Controller
 
-<img width="1400" height="500" alt="hovertune_logo_neon_final" src="https://github.com/user-attachments/assets/1fdd1499-9204-48de-bd35-45aa2774467d" />
+<img width="341" height="351" alt="image" src="https://github.com/user-attachments/assets/3010d9c0-7c8d-446d-8c41-6ee5fde4fc49" />
+
 
 
 
